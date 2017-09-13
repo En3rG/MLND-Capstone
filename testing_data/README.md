@@ -1,1 +1,3 @@
-This folder will contain all the data for the testing stocks
+This folder will contain testing data
+- Raw stock data per tick
+- Processed stock data per tick
