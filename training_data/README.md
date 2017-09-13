@@ -1,4 +1,4 @@
-This folder will training data.
+This folder will contain training data.
 - Raw stock data
 - Processed stock data
 - All raw stock data combined
