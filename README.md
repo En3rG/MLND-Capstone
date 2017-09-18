@@ -16,17 +16,17 @@ You will also need to have software installed to run and execute a <a href="http
 
 You can install the requirements using the command below:
 
-'''python
+```python
 pip install -r requirements.txt
-'''
+```
 
 ### Run
 
 Download or clone the repository.  In a terminal or command window, navigate to the top-level project directory and run the following command:
 
-'''python
+```python
 jupyter notebook portfolio_optimizer.ipynb
-'''
+```
 
 This will open the Jupyter Notebook software and notebook file in your browser.
 
