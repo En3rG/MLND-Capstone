@@ -4,3 +4,8 @@ This folder will contain figures generated
 - Optimal model's performance, per testing stock
 - Accuracy and F-score of the top performing models, one per algorithm/benchmark
 - Overall performance of the top performing models, one per algorithm/benchmark
+- Final value of all 120 GaussianNB models
+- Final value of all 120 Adaboost models
+- Final value of all 120 Decision Tree models
+- Final value of all 120 Neural Network models
+- 3D plot of the inputs with respect to previous closing price
